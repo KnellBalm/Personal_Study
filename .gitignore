@@ -1,0 +1,6 @@
+# Ignore Jupyter Notebook Checkpoints
+*.ipynb_checkpoints
+*.log
+*.out
+forecasting/store-sales-time-series-forecasting/train.csv
+recommendation_system/ml-latest.zip
